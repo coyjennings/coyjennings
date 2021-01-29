@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full stack developer based in Denver CO with 6 years of experience in the software industry.I enjoy working with the various technologies on the internet. I will provide high quality results and hard work until you are satisfied. Fell free to review my [portfolio](https://www.coyjenningswdp.com).
+I'm a full stack developer based in Denver CO with 6 years of experience in the software industry.I enjoy working with the various technologies on the internet. Fell free to review my [portfolio](https://www.coyjenningswdp.com).
 
 [![coyjennings's github stats](https://github-readme-stats.vercel.app/api?username=coyjennings&hide=issues,stars&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
